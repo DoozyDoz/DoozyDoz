@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Doozy
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning kotlin flows and coroutines
-- 💞️ I’m looking to collaborate on kotlin/java android bug fixing
+- 👀 I’m interested in __
+- 🌱 I’m currently learning __
+- 💞️ I’m looking to collaborate on __
 - 📫 How to reach me : [Email](mailto:dozdoozie@gmail.com) or [WhatsApp](https://wa.me/+256756369854) else through my assistant, "Genos" (ofcourse)
 
 <!---
